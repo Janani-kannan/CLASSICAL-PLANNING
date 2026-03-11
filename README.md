@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# Name : PRIYADARSHINI K
-# REG NO : 212224100046
+# Name : JANANI K
+# REG NO : 212224230102
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
